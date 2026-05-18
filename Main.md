@@ -21,11 +21,16 @@
 - [ ] Romeo разбил Tybalta на сфах
 - [ ] "Wiek to tylko liczba" (пост Romeo) + коммент "więzienie to tylko pokój"
 - [ ] Посты с видео "us?" + комменты родителей ("odczep się od mojej córki")
+- [ ] Romeo наблюдает за Julią и её родителями из шкафа + коммент Chowam się w szafie
+- [ ] Посты про несчастливую любовь от Julii
 - [ ] Еще там тимур доделает
 
 ### 3. Stories (4–6 штук)
 
 - [x] Stories/Stories.md → 4 истории с описанием в .md файле
+  - Два поста для юлии
+  - Два поста для ромео
+  - Надо сделать без подписей, просто картинку с интерфейсом Instagram Stories
 
 ### 4. Переписка DM (3 диалога)
 
@@ -35,7 +40,7 @@
 
 ### 5. Плакат вечеринки Capulettich
 
-- [x] Plakat.png в _resources/
+- [x] Plakat.png в \_resources/
 
 ---
 
@@ -44,11 +49,10 @@
 **Критично:**
 
 - [ ] 6–10 постов в ленте с комментариями (визуал + текст)
-- [ ] 2-3 stories
 
 **Потом:**
 
-- [ ] Веб-презентация с niri-scrolling layout
+- [] Веб-презентация с niri-scrolling layout
 
 ---
 
