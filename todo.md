@@ -14,17 +14,10 @@
 
 
 ## Stories (4–6 штук)
-- [ ] Julia: опрос «lubisz go czy nie?» про Romeo
-- [ ] Romeo: story ночью с балкона Julia
-- [ ] Tybalt: провокации против Montague
-- [ ] Niania: беспокойство, советы Julia
-- [ ] Romeo: после свадьбы (счастье)
-- [ ] Julia: отчаяние (после смерти Romeo)
+ // ToDo Ufw
 
 ## Комментарии и семейные драмы (3 сцены)
-- [ ] Сцена 1: Montague vs Capulet в комментариях под постом Tybalta
-- [ ] Сцена 2: Давление на Julia (пост про Parysa)
-- [ ] Сцена 3: Драма после гибели Merkucjo
+ // ToDo Timur
 
 ## Переписка в Direct Messages (3 диалога)
 - [x] Диалог 1: Baltazar → Romeo → [[Romeo i Baltazar]]
