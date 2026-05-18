@@ -22,6 +22,7 @@
 - [ ] "Wiek to tylko liczba" (пост Romeo) + коммент "więzienie to tylko pokój"
 - [ ] Посты с видео "us?" + комменты родителей ("odczep się od mojej córki")
 - [ ] Romeo наблюдает за Julią и её родителями из шкафа + коммент Chowam się w szafie
+- [ ] Посты про несчастливую любовь от Julii
 - [ ] Еще там тимур доделает
 
 ### 3. Stories (4–6 штук)
