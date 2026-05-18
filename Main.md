@@ -18,9 +18,6 @@
 - Сетка из нескольких постов (миниатюры)
 - Highlights (иконки сторис)
 
-#### Julia
-[[julia_profile.png]]
-
 **Персонажи:** Romeo, Julia, Tybalt
 **Второстепенные профили** → могут фигурировать в комментариях, допустим: Merkucjo, Ojciec Capulet, Matka Capulet, Niania (Marta), Brat Lorenzo, мать ромео, отец ромео и тд
 

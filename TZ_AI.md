@@ -86,10 +86,10 @@
 - 
 
 **Диалог 2: Julia ↔ Niania**
-- 
+- [[Julia i Marta]]
 
 **Диалог 3: Julia ←→ Laurenty**
-- 
+- [[Julia i Laurenty]]
 
 вайтлист у ромео
 
